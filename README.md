@@ -43,8 +43,9 @@ In the 4th grade I learned [Logo](https://en.wikipedia.org/wiki/Logo_(programmin
 
 |Issue Date|Patent No.|Title|
 |:--------:|:--------:|-----|
-|2/9/2021|10917691|Methods and Apparatus to Determine Audio Source Impact on an Audience of Media|
-|3/17/2020|10595083|Methods and Apparatus to Determine Audio Source Impact on an Audience of Media|
+|May 31 2021|[11,350,164](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=Stembler-Edward&OS=Stembler-Edward&RS=Stembler-Edward)|Methods and Apparatus to Determine Audio Source Impact on an Audience of Media|
+|Feb 09 2021|[10,917,691](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=Stembler-Edward.INNM.&OS=IN/Stembler-Edward&RS=IN/Stembler-Edward)|Methods and Apparatus to Determine Audio Source Impact on an Audience of Media|
+|Mar 17 2020|[10,595,083](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=Stembler-Edward.INNM.&OS=IN/Stembler-Edward&RS=IN/Stembler-Edward)|Methods and Apparatus to Determine Audio Source Impact on an Audience of Media|
 
 ## Social Media
 
